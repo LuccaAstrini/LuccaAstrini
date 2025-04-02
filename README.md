@@ -1,7 +1,7 @@
 ### Olá me chamo Lucca
 
 - 🔭 Estou procurando oportunidades!
-- 🌱 Sempre cultivando minhas skills para me tornar um profissional full stack.
+- 🌱 Sempre cultivando minhas skills para me tornar um profissional.
 <h3 align="left">Minhas Skills ~</h3>
 
 <div align="left">
