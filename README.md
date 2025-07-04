@@ -20,7 +20,9 @@
   [![GitHub Streak](https://streak-stats.demolab.com?user=LuccaAstrini&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaAstrini&layout=donut&theme=dracula)](https://github.com/ruivoverso/github-readme-stats&theme=dracula)
+  
   <br>
+  
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuccaAstrini/LuccaAstrini/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuccaAstrini/LuccaAstrini/output/github-contribution-grid-snake-dark.svg">
